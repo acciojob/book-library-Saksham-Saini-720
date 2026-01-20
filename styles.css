@@ -13,9 +13,11 @@
             border-radius: 6px;
         }
 
-        .book-library h2 {
+        .book-library h1 {
             text-align: center;
+			background-color: #f8f8f8;
             margin: 10px 0 20px;
+			padding : 10px
         }
 
         .book {
@@ -32,10 +34,7 @@
             height: auto;
         }
 
-        .title {
-            font-weight: bold;
-            margin-top: 10px;
-        }
+        
 
         .author {
             color: #777777;
